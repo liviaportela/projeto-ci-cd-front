@@ -1,5 +1,5 @@
 // script.js - ATUALIZE COM SUA URL
-const BACKEND_URL = 'https://projeto-ci-cd-back-t5w8.onrender.com';
+const BACKEND_URL = 'https://projeto-ci-cd-back-t5w8.onrender.com/';
 
 async function chamarAPI() {
     const saida = document.getElementById('saida');
